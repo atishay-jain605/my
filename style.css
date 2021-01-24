@@ -1,0 +1,23 @@
+#apps {
+    width: 100%;
+        height: 800px;
+    background-color: aqua;
+}
+.line {
+    height: 6px;
+    background-color: aquamarine;
+    width: 70px;
+        margin: 8px auto;
+}
+#game {
+   width: 100%;
+        height: 800px;
+    background-color: bisque;
+}
+ing {
+    transition: transform .2s;
+    
+}
+img;hover {
+    transform: scale(0.9);
+}
